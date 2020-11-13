@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 
 <!--
 **GaelKBertrand/GaelKBertrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
