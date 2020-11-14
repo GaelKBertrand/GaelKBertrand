@@ -1,3 +1,7 @@
+<!--
+**GaelKBertrand/GaelKBertrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ### Beekay Koozie here 👋 <img src="https://raw.githubusercontent.com/GaelKBertrand/GaelKBertrand/master/tenor.gif" width="30px">   
 
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
@@ -5,8 +9,8 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 https://github.com/MartinHeinz/MartinHeinz/edit/master/README.md
 
 
-<!--
-**GaelKBertrand/GaelKBertrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello folks, I am Gael K Bertrand. 
+
 
 Here are some ideas to get you started:
 
