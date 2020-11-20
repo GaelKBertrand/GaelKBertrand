@@ -8,6 +8,8 @@ https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9
 
 https://github.com/MartinHeinz/MartinHeinz/edit/master/README.md
 
+https://github.com/adamalston/adamalston  , check it out 
+
 
 Hello folks, I am Gael K Bertrand. 
 
@@ -29,7 +31,9 @@ Here are some ideas to get you started:
 
 # Salve populus! <img src="https://github.com/GaelKBertrand/GaelKBertrand/blob/main/Romans_larger.jpg" width="60px">
 
-My name is Bertrand. My moniker is Beekay Koozie. I am a tellurian Homo Sapiens from the Milky Way galaxy and currently reside on planet Earth. I am currently a student at Ashoka University and working to end normalcy and improve planet Earth. I follow Epoch J200 to keep track of my timeline. Poke me on [Discord](https://discord.com/) at: 'BeeKay Koozie#6769' to discuss amazing ideas. 
+My name is Gael K. Bertrand. My moniker is Beekay Koozie. I am a tellurian Homo Sapiens from the Milky Way galaxy and currently reside on planet Earth. I am currently a student at Ashoka University and working to end normalcy and improve planet Earth. I follow Epoch J200 to keep track of my timeline. Poke me on [Discord](https://discord.com/) at: 'BeeKay Koozie#6769' to discuss amazing ideas. 
+
+😄 Pronouns: He/Him
 
 ## &#x270d; Research projects, Other interests, and Hobbies
 
