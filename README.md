@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 # Salve populus! <img src="https://github.com/GaelKBertrand/GaelKBertrand/blob/main/Romans_larger.jpg" width="60px">
 
+My name is Bertrand. My moniker is Beekay Koozie. I am a tellurian Homo Sapiens from the Milky Way galaxy and currently reside on planet Earth. I am currently a student at Ashoka University and working to end normalcy and improve planet Earth. I follow Epoch J200 to keep track of my timeline. Poke me on Discord at BeeKay Koozie#6769 to discuss amazing ideas. 
 
 My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
