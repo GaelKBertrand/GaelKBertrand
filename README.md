@@ -37,7 +37,7 @@ My name is Gael K. Bertrand. My moniker is Beekay Koozie. I am a tellurian Homo 
 
 ## &#x270d; Research projects, Other interests, and Hobbies
 
-Not only coding interests me. I am trying to do other amazing things. Find more about me at [beekaykoozie.tech](https://beekaykoozie.tech/)
+Not only coding interests me. I am trying to do other amazing things. Find more about me at [beekaykoozie.tech](https://beekaykoozie.ninja/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
