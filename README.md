@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 # Salve populus! <img src="https://github.com/GaelKBertrand/GaelKBertrand/blob/main/Romans_larger.jpg" width="60px">
 
-My name is Gael K. Bertrand. My moniker is Beekay Koozie. I am a tellurian Homo Sapiens from the Milky Way galaxy and currently reside on planet Earth. I am currently working to end normalcy and improve planet Earth. I follow Epoch J2000 to keep track of my timeline. Poke me on [Discord](https://discord.com/) at: 'BeeKay Koozie#6769' to discuss amazing ideas. 
+My name is Gael K. Bertrand. My moniker is Beekay Koozie. I am a tellurian Homo Sapiens from the Milky Way galaxy and currently reside on planet Earth. I am currently working to end normalcy and improve planet Earth. I follow Epoch J2000 to keep track of my timeline. Poke me on [Discord](https://discord.com/) at: [BeeKay Koozie](discord.com/users/487023464759427093) to discuss amazing ideas. 
 
 😄 Pronouns: He/Him
 
