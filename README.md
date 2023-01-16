@@ -52,14 +52,7 @@ Not only coding interests me. I am trying to do other amazing things.
 ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/GaelKBertrand/GaelKBertrand">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaelKBertrand&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/GaelKBertrand/GaelKBertrand">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GaelKBertrand&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
 
 
