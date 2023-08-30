@@ -53,7 +53,8 @@ Not only coding interests me. I am trying to do other amazing things.
 ![](https://img.shields.io/badge/Cloud-Google_cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelKBertrand_icons=true&theme=dark)
+![BeeKaKoozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelKBertrand)](https://github.com/GaelKBertrand/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaelKBertrand&theme=dark)](https://github.com/GaelKBertrand)
 
