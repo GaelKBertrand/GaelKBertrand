@@ -38,7 +38,7 @@ My name is Beekay Koozie. I am a tellurian Homo Sapiens from the Milky Way galax
 Not only coding interests me. I am trying to do other amazing things. 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS%20-%20MacOSBigSur?logo=Apple)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -52,6 +52,10 @@ Not only coding interests me. I am trying to do other amazing things.
 ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+## Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelKBertrand_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaelKBertrand&theme=dark)](https://github.com/GaelKBertrand)
 
 
 
