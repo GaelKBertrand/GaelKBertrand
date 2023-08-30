@@ -39,9 +39,11 @@ Not only coding interests me. I am trying to do other amazing things.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=Apple)
-![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=Linux)
+![](https://img.shields.io/badge/%20-%20logo=Linux)
 ![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=PyCharm)
-![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=Linux)
+![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=Python)
+![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=C)
+![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=C++)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
