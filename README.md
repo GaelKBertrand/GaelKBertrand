@@ -39,11 +39,16 @@ Not only coding interests me. I am trying to do other amazing things.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=Apple)
-![](https://img.shields.io/badge/%20-%20logo=Linux)
+![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=Linux)
 ![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=PyCharm)
-![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=Python)
+![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=python)
 ![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=C)
 ![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=C++)
+![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=gnu-bash)
+![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=kubernetes)
+![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=digitalocean)
+
+<!--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -56,6 +61,7 @@ Not only coding interests me. I am trying to do other amazing things.
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+-->
 
 ## Stats 
 ![BeeKaKoozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelKBertrand&theme=dark)]
