@@ -35,7 +35,7 @@ My name is Beekay Koozie. I am a tellurian Homo Sapiens from the Milky Way galax
 
 ## &#x270d; Research projects, Other interests, and Hobbies
 
-Not only coding interests me. I am trying to do other amazing things. 
+Not only coding interests me. I am trying to do other amazing things. Refer: https://gaelkbertrand.github.io/mnl/
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=Apple)
