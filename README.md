@@ -65,7 +65,7 @@ Not only coding interests me. I am trying to do other amazing things. Refer: htt
 
 ## Stats 
 ![BeeKaKoozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelKBertrand&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaelKBertrand&theme=dark)](https://github.com/GaelKBertrand)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaelKBertrand&theme=dark)](https://github.com/GaelKBertrand)-->
 
 
 
