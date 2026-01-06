@@ -35,7 +35,7 @@ My name is Beekay Koozie. I am a tellurian Homo Sapiens from the Milky Way galax
 
 ## &#x270d; Research projects, Other interests, and Hobbies
 
-Not only coding interests me. I am trying to do other amazing things. Refer: https://meliora-nexus-labs.github.io/mnl/
+Not only coding interests me. I am trying to do other amazing things. Refer: https://mimperio.tech
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/%20-%20MacOSBigSur?logo=Apple)
@@ -63,11 +63,10 @@ Not only coding interests me. I am trying to do other amazing things. Refer: htt
 ![](https://img.shields.io/badge/Cloud-Google_cloud-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 -->
 
-## Stats 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GaelKBertrand?cardType=level-alternate&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
+<!--## Stats -->
+<!--[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GaelKBertrand?cardType=level-alternate&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)-->
 <!--![BeeKaKoozie's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaelKBertrand&theme=dark)]-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaelKBertrand&theme=dark)](https://github.com/GaelKBertrand)-->
-
 
 
 
