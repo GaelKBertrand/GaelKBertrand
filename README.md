@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 # Salve populus! <img src="https://github.com/GaelKBertrand/GaelKBertrand/blob/main/Romans_larger.jpg" width="60px">
 
-I am Beekay Koozie. a tellurian Homo Sapiens from the Milky Way galaxy and currently reside on planet Earth. I am currently working to improve planet Earth. I follow Epoch J2000 to keep track of my timeline.
+I am Beekay Koozie, a tellurian Homo Sapiens from the Milky Way galaxy and currently reside on planet Earth. I am currently working to improve planet Earth. I follow Epoch J2000 to keep track of my timeline.
 
 ## &#x270d; Research projects, Other interests, and Hobbies
 
